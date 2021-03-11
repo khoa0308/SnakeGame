@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615350545 source:c:\khoa\study\laptrinhnangcao\nhapmon\snake\snake1.cpp
+	<iostream>
+	<SDL.h>
+	<bits/stdc++.h>
+

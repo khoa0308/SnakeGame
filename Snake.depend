@@ -4,3 +4,10 @@
 	<SDL.h>
 	<bits/stdc++.h>
 
+1620735747 source:c:\khoa\study\laptrinhnangcao\nhapmon\snakegame\snake1.cpp
+	<iostream>
+	<SDL.h>
+	<bits/stdc++.h>
+	"SDL_mixer.h"
+	<SDL_ttf.h>
+
